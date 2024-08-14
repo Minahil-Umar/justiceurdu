@@ -36,11 +36,11 @@ section{
     background-color: #009970;
 }
 #navigation .logo a{
-    font-size: 26px;
+    font-size: 24px;
     padding: 0;
     line-height: 1;
-    font-weight: 700;
-    color: white;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
     text-transform: uppercase;
 }
 #navbarNav{
@@ -51,8 +51,8 @@ section{
     position: relative;
     color: #009970;
     padding: 10px 15px;
-    font-size: 13px;
-    font-weight: 700;
+    font-size: 15px;
+    font-weight: 900;
     text-transform: uppercase;
     transition: 0.3s all;
 }
